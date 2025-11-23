@@ -1,0 +1,15 @@
+# robots.txt for santhoshratnam.com
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private directories if any
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://santhoshratnam.com/sitemap.xml
+
+# Crawl-delay (optional - can help prevent server overload)
+# Crawl-delay: 1
+
