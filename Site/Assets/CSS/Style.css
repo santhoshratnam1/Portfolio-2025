@@ -817,7 +817,8 @@ img {
   max-width: 1440px;
   max-height: 1080px;
   display: flex;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .screen-header {
@@ -895,7 +896,8 @@ img {
   display: flex;
   flex-direction: row;
   position: relative;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .side-menu {
